@@ -281,7 +281,7 @@ The field under validation must be present in the input data but can be empty.
 
 Checks if the length of the String representation of the value is >
 
-#### required_if:anotherfield,value
+#### required_if:anotherfield,value,...
 
 The field under validation must be present and not empty if the anotherfield field is equal to any value.
 
